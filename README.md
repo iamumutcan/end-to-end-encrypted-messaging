@@ -33,7 +33,6 @@ The app uses end-to-end encryption to ensure that all messages are transmitted e
 ## Systems Architecture
 
 ![end-to-end](https://github.com/community/community/assets/94680242/c0a1a0df-1e18-4915-b6fc-23e165ee095e)
-](https://lh3.googleusercontent.com/drive-viewer/AITFw-zDveFFRmoco3JesaAiexkWQBNK4pzJqkr24INUydTquLGDzBh87UcqtXra6vlVzgy6efpvUSyCUjSRpZEwICSiGSNF=w1920-h897)
 
  ## API Endpoints
 
