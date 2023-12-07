@@ -1,0 +1,15 @@
+# Files created by Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment files
+venv/
+env/
+
+# IDE or editor specific files
+.idea/
+.vscode/
+
+# Miscellaneous system or file temporary files
+.DS_Store
+Thumbs.db
