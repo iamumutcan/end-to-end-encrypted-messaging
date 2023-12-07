@@ -28,7 +28,6 @@ The app uses end-to-end encryption to ensure that all messages are transmitted e
 
 	* Crypto
 
-  
 
 ## Systems Architecture
 
